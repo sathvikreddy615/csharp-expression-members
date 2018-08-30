@@ -1,0 +1,11 @@
+/Users/nss4/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.deps.json
+/Users/nss4/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.runtimeconfig.json
+/Users/nss4/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.runtimeconfig.dev.json
+/Users/nss4/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.dll
+/Users/nss4/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.pdb
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.csprojAssemblyReference.cache
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.csproj.CoreCompileInputs.cache
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.AssemblyInfoInputs.cache
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.AssemblyInfo.cs
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.dll
+/Users/nss4/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.pdb
